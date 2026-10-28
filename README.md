@@ -54,7 +54,7 @@ The full method is in [docs/how-it-works.md](docs/how-it-works.md).
 ## Install
 
 ```bash
-git clone https://github.com/cth9191/carousel-engine.git
+git clone https://github.com/ctskool/carousel-engine.git
 cd carousel-engine
 
 # Codex CLI, then sign in
